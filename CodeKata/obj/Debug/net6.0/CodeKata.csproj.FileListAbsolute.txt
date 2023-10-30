@@ -1,0 +1,11 @@
+D:\Projects\AwesomeKatas\CodeKata\bin\Debug\net6.0\CodeKata.deps.json
+D:\Projects\AwesomeKatas\CodeKata\bin\Debug\net6.0\CodeKata.dll
+D:\Projects\AwesomeKatas\CodeKata\bin\Debug\net6.0\CodeKata.pdb
+D:\Projects\AwesomeKatas\CodeKata\obj\Debug\net6.0\CodeKata.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AwesomeKatas\CodeKata\obj\Debug\net6.0\CodeKata.AssemblyInfoInputs.cache
+D:\Projects\AwesomeKatas\CodeKata\obj\Debug\net6.0\CodeKata.AssemblyInfo.cs
+D:\Projects\AwesomeKatas\CodeKata\obj\Debug\net6.0\CodeKata.csproj.CoreCompileInputs.cache
+D:\Projects\AwesomeKatas\CodeKata\obj\Debug\net6.0\CodeKata.dll
+D:\Projects\AwesomeKatas\CodeKata\obj\Debug\net6.0\refint\CodeKata.dll
+D:\Projects\AwesomeKatas\CodeKata\obj\Debug\net6.0\CodeKata.pdb
+D:\Projects\AwesomeKatas\CodeKata\obj\Debug\net6.0\ref\CodeKata.dll

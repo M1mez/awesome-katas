@@ -1,0 +1,14 @@
+D:\Projects\AwesomeKatas\Startup\bin\Debug\net6.0\Startup.exe
+D:\Projects\AwesomeKatas\Startup\bin\Debug\net6.0\Startup.deps.json
+D:\Projects\AwesomeKatas\Startup\bin\Debug\net6.0\Startup.runtimeconfig.json
+D:\Projects\AwesomeKatas\Startup\bin\Debug\net6.0\Startup.dll
+D:\Projects\AwesomeKatas\Startup\bin\Debug\net6.0\Startup.pdb
+D:\Projects\AwesomeKatas\Startup\obj\Debug\net6.0\Startup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AwesomeKatas\Startup\obj\Debug\net6.0\Startup.AssemblyInfoInputs.cache
+D:\Projects\AwesomeKatas\Startup\obj\Debug\net6.0\Startup.AssemblyInfo.cs
+D:\Projects\AwesomeKatas\Startup\obj\Debug\net6.0\Startup.csproj.CoreCompileInputs.cache
+D:\Projects\AwesomeKatas\Startup\obj\Debug\net6.0\Startup.dll
+D:\Projects\AwesomeKatas\Startup\obj\Debug\net6.0\refint\Startup.dll
+D:\Projects\AwesomeKatas\Startup\obj\Debug\net6.0\Startup.pdb
+D:\Projects\AwesomeKatas\Startup\obj\Debug\net6.0\Startup.genruntimeconfig.cache
+D:\Projects\AwesomeKatas\Startup\obj\Debug\net6.0\ref\Startup.dll
